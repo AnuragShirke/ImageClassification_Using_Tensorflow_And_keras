@@ -37,7 +37,7 @@ Follow these steps to train the model, make predictions, and use custom images:
    - Train the image classifier using `classifier.py`. This script loads a pre-trained MobileNetV2 model, adds a custom classification head, and trains it on your dataset.
    
      ```bash
-     python myclassifier.py
+     python classifier.py
      ```
 
 4. **Evaluate Model:**
